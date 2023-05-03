@@ -1,0 +1,58 @@
+# # paragraph = generate_paragraph()
+# # print("Type the following paragraph as quickly and accurately as possible:")
+# # time.sleep(1)
+# # print(paragraph)
+# # start_time = time.time()
+# # user_input = input("> ")
+# # end_time = time.time()
+# # time_taken = end_time - start_time
+# # accuracy = sum([1 for i in range(len(paragraph)) if paragraph[i] == user_input[i]]) / len(paragraph)
+# # print("Time taken:", round(time_taken, 2), "seconds")
+# # print("Accuracy:", round(accuracy * 100, 2), "%")
+# # score = f"Time taken: {round(time_taken, 2)} seconds, Accuracy: {round(accuracy * 100, 2)}%\n"
+# # with open("scoreboard.txt", "a") as f:
+# #     f.write(score)
+
+
+# "How vexingly quick daft zebras jump!",
+# "Pack my box with five dozen liquor jugs.",
+# "My ex pub quiz crowd gave joyful thanks.",
+# "The five boxing wizards jump quickly.",
+# "Waltz, nymph, for quick jigs vex Bud.",
+# "Sphinx of black quartz, judge my vow.",
+# "The jay, pig, fox, zebra and my wolves quack!",
+# "Amazingly few discotheques provide jukeboxes.",
+# "The beige hue on the waters of the loch impressed all.",
+# "We promptly judged antique ivory buckles for the next prize.",
+# "A wizard’s job is to vex chumps quickly in fog.",
+# "Bright vixens jump; dozy fowl quack.",
+# "Quick zephyrs blow, vexing daft Jim.",
+# "Two driven jocks help fax my big quiz.",
+# "Fickle jinx bog dwarves spy venom.",
+# "How razorback-jumping frogs can level six piqued gymnasts!",
+# "Jaded zombies acted quaintly but kept driving their oxen forward.",
+# "The myopic wizard’s eyes were spaced too far apart.",
+# "Crazy Frederick bought many very exquisite opal jewels.",
+# "Sixty zippers were quickly picked from the woven jute bag.",
+# "The job requires extra pluck and zeal from every young wage earner.",
+# "A quick movement of the enemy will jeopardize six gunboats.",
+# "All questions asked by five watched experts amaze the judge.",
+# "The quick onyx goblin jumps over the lazy dwarf.",
+# "The public was amazed to view the quickness and dexterity of the juggler.",
+# "Mr. Jock, TV quiz PhD, bags few lynx.",
+# "Cwm fjord veg balks nth pyx quiz.",
+# "The explorer was frozen in his big kayak just after making queer discoveries.",
+# "Big Fuji waves pitch enzymed kex liquor.",
+# "The July sun caused a fragment of black pine wax to ooze on the velvet quilt.",
+# "A very bad quack might jinx zippy fowls.",
+# "Few black taxis drive up major roads on quiet hazy nights.",
+# "Quick fox jumps nightly above wizard.",
+# "He quizzed forty liquor jugs.",
+# "Grumpy wizards make toxic brew for the evil queen and jack.",
+# "Junk MTV quiz graced by fox whelps.",
+# "A quart jar of oil mixed with zinc oxide makes a very bright paint.",
+# "The fox quickly jumped over the red hen.",
+# "Glib jocks quiz nymph to vex dwarf.",
+# "Sphinx of black quartz, judge my vow.",
+# "Waltz, bad nymph, for quick jigs vex!",
+# "The quick brown fox jumps over a lazy dog."
